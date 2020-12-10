@@ -1,0 +1,12 @@
+ , , ,P,B,Y, , , 
+ , , ,P,B,Y, , , 
+ , , ,P,B,Y, , , 
+R,R,R,B,Y,G,O,O,O
+R,R,R,B,Y,G,O,O,O
+R,R,R,B,Y,G,O,O,O
+ , , ,Y,G,P, , , 
+ , , ,Y,G,P, , , 
+ , , ,Y,G,P, , , 
+ , , ,G,P,B, , , 
+ , , ,G,P,B, , , 
+ , , ,G,P,B, , , 

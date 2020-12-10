@@ -1,0 +1,24 @@
+1.폴더 생성
+mkdir '파일이름'
+
+2. 파일명 출력
+dir /B '폴더 명'
+
+init, print, solve, exit, user
+
+Welcome~ Ballboy's Python World~
+
+ID : 
+PW : 
+
+'#####'님 반갑습니다.
+
+메뉴를 선택하여 주세요
+1. 새로운 게임 시작
+2. 저장된 데이터 불러오기
+
+select : 
+
+새로운 게임을 시작합니다.
+
+'YYYY-MM-DD'의 데이터를 불러 옵니다. 즐거운 게임 되십시오
